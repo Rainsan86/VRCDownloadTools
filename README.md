@@ -110,7 +110,7 @@ GitHub：<https://github.com/Rainsan86/com.facs01.utilities>
 
 ## 会被封号吗？
 
-只要 SDK 保持最新，检测使用本工具是比较困难的，因为它使用的就是 [VRChat SDK 内置的资产下载器](https://github.com/200Tigersbloxed/dVRC/blob/main/Editor/VRCAsset.cs)。
+只要 SDK 保持最新，检测使用本工具是比较困难的，因为它使用的就是 [VRChat SDK 内置的资产下载器](https://github.com/Rainsan86/VRCDownloadTools/blob/main/Editor/VRCAsset.cs)。
 但*已知*的使用行为仍可能导致处罚。本工具定位是**找回工具**，只能找回**你自己上传的资产**，
 无法用它提取其他用户的资产。**本工具绝不会修改 VRChat SDK。**
 
